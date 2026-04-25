@@ -2,30 +2,30 @@ name: Update Playlist
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
-
+    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পরপর অটো আপডেট হবে
+  workflow_dispatch: # আপনি নিজেও ম্যানুয়ালি রান করতে পারবেন
 
 jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
+  update-playlist:
+    runs-on: ubuntu-latest
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Install Requests
-        run: pip install requests
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
 
-      - name: Run Script
-        run: python update_playlist.py
+      - name: Install Dependencies
+        run: |
+          pip install requests
 
-      - name: Save Changes
-        run: |
+      - name: Run Merge Script
+        run: |
+          python merge_script.py # আপনার স্ক্রিপ্টের নাম যদি আলাদা হয় তবে সেটি এখানে লিখুন
+
       - name: Save Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -33,5 +33,4 @@ jobs:
           git add merged_playlist.m3u
           git commit -m "Playlist Updated: $(date)" || echo "No changes to commit"
           git push
-
-
+          
