@@ -1,9 +1,10 @@
-name: Auto Update Playlist
+name: Update Playlist
 
 on:
-  schedule:
-    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা অন্তর অটোমেটিক চলবে
-  workflow_dispatch: # ম্যানুয়ালি চালানোর বাটন দিবে
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
 
 jobs:
   update:
