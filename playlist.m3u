@@ -7,5 +7,23 @@ https://bdixiptvbd.com/live/Telegram.mp4
 https://bdixiptvbd.com/live/Telegram.mp4
 #EXTINF:-1,WhatsApp: 01610598422
 https://bdixiptvbd.com/live/Telegram.mp4
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Cricket", Amo Region Vs Speen Ghar Region | Super Cola National T20 Cup 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/amo_region_vs_speen_ghar_region_142411_english.m3u8
+#EXTINF:-1 tvg-id="tapmad-13006" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17778929711020x576.jpg" group-title="Cricket", Pakistan W vs Zimbabwe W Live | Zimbabwe Women Tour of Pakistan 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778076906~acl=/hls/*~hmac=dd1674e6e08e3f5c31cd10da005ab5e89327dd68ff549ce64fa6ff6b487f720e
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg" group-title="Football", Punjab Fc Vs Chennaiyin Fc | ISL 2025-26 (ENGLISH) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/140508_english_dash_76098_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg" group-title="Football", Punjab Fc Vs Chennaiyin Fc | ISL 2025-26 (HINDI) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/140508_hindi_dash_35983_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg" group-title="Football", Punjab Fc Vs Chennaiyin Fc | ISL 2025-26 (TAMIL) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/140508_tamil_dash_73027_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg" group-title="Football", Punjab Fc Vs Chennaiyin Fc | ISL 2025-26 (MALAYALAM) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/140508_malayalam_dash_2673_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140508_5956_PFC_CFC_FC-Web_1772474674105.jpg" group-title="Football", Punjab Fc Vs Chennaiyin Fc | ISL 2025-26 (BENGALI) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/140508_bengali_dash_56186_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 1   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_1___main_feed_142219_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 1   Supertennis Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_1___supertennis_arena_142556_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 1   Campo Centrale | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_1___campo_centrale_142218_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 1   Bnp Paribas Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/day_1___bnp_paribas_arena_142555_english.m3u8
