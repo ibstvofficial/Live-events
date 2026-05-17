@@ -7,15 +7,11 @@ https://bdixiptvbd.com/live/Telegram.mp4
 https://bdixiptvbd.com/live/Telegram.mp4
 #EXTINF:-1,WhatsApp: 01610598422
 https://bdixiptvbd.com/live/Telegram.mp4
-#EXTINF:-1 tvg-id="tapmad-13314" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17786596061020x576.jpg" group-title="Football", Al Nassr Club vs Gamba Osaka Live | AFC Champions League Two 2025/26
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142153_5655_AAS_ALK_fc-web.jpg" group-title="Football", Al Ahli Saudi Fc Vs Al Kholood Club | Roshn Saudi League 2025-2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/al_ahli_saudi_fc_vs_al_kholood_club_142153_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778920548856/142633_CASACARDS_APP.png" group-title="Football", Racing Club Vs Real Valladolid | LALIGA Hypermotion 2025-26 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/racing_club_vs_real_valladolid_142633_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778953303781/142551_CASACARDS_APP.png" group-title="Football", Vietnam Vs Australia | AFC U17 Asian Cup Saudi Arabia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vietnam_vs_australia_142551_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/EFL-Championship_Al_Nasar_vs_Gamba_Oska_FC-WEB.jpg" group-title="Football", Al Nassr Fc Vs Gamba Osaka | AFC Champions League Two 2025-26 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/al_nassr_fc_vs_gamba_osaka_140874_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="Golf", Day 3 | PGA Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_142629_english.m3u8
+#EXTINF:-1 tvg-id="tapmad-13220" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17781400451020x576.jpg" group-title="Cricket", Bangladesh vs Pakistan Live | Pakistan Tour of Bangladesh 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1778988915~acl=/hls/*~hmac=1506cfd4a87be888ebb562c619d6639b964f1329d89ec15e39b2d22d96bf8239
+#EXTINF:-1 tvg-id="tapmad-12992" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17788826581020x576.jpg" group-title="Mma", Allen vs Costa | UFC 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket", Cook Islands Vs Indonesia | ICC Men's T20 WC EAP Sub-regional Qualifier A + B (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/cook_islands_vs_indonesia_142320_english.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090530471" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017960/1778584726201475_UFC_Fight_Night_Allen_vs_Costa_12may_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Allen vs Costa | UFC Fight Night - Allen vs Costa - 17 May 2026
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
