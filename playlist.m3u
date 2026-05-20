@@ -7,17 +7,15 @@ https://bdixiptvbd.com/live/Telegram.mp4
 https://bdixiptvbd.com/live/Telegram.mp4
 #EXTINF:-1,WhatsApp: 01610598422
 https://bdixiptvbd.com/live/Telegram.mp4
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142440_6076_CRO_JER_fc-web.jpg" group-title="Cricket", Jersey Vs Croatia | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jersey_vs_croatia_142440_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142439_6076_SWE_MAL_fc-web.jpg" group-title="Cricket", Sweden Vs Malta | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sweden_vs_malta_142439_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_harpy_eagles_vs_trinidad___tobago_red_force_141958_english.m3u8
+#EXTINF:-1 tvg-id="tapmad-12806" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17790796211020x576.jpg" group-title="Football", SC Freiburg vs Aston Villa | UEFA Europa League 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779245353729/142704_CASACARDS_APP.png" group-title="Football", Al Khaleej Fc Vs Al Ahli Saudi Fc | Roshn Saudi League 2025-2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/al_khaleej_fc_vs_al_ahli_saudi_fc_142704_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Tennis", Atp 250   Gonet Geneva Open 2026 | ATP 250 - Gonet Geneva Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/atp_250___gonet_geneva_open_2026_142271_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 4   Main Feed | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___main_feed_142264_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 4   M1 | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___m1_142929_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 4   Centre Court | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___centre_court_142930_english.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090530479" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018114/1779102313036807_UEL_Final_With_Players_Frieburg_vs_Aston_Villa_live_landscape_thumb.jpg" group-title="Football", UEFA Europa League 2025-26 | Freiburg vs Aston Villa - Final - 21 May 2026
+https://dai.google.com/ssai/event/8v64bO0BSiWeXJxzHSUt7A/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090530478" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018140/1779197437070297_EngW_vs_NZW_1t20i_19may_landscape_thumb.jpg" group-title="Cricket", New Zealand Women's Tour of England 2026 | 1st T20I - 20 May 2026
+https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
