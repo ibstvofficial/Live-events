@@ -13,37 +13,33 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13611" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17795822831020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13552" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794409121020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
+#EXTINF:-1 tvg-id="tapmad-13553" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794417191020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles 1 "Great" match - 1st Round | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13483" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17792630681020x576.jpg" group-title="Mma", Muhammad Yahya vs Mehdi Saadi | PFL 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13444" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794469831020x576.jpg" group-title="Cricket", Middlesex vs Surrey Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779629706~acl=/hls/*~hmac=64cf441e7aa88b70368b337140651e63bf3720adc92fb6895d7f8b1169025939
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", Sierra Leone Vs Cameroon | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142912_english_hls_ae8ea4872810741_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", Mali Vs Botswana | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142911_english_hls_9cabe811d380958_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778919948675/142735_CASACARDS_APP.png" group-title="Football", Bolton Wanderers Vs Stockport County | League One 2025-26 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142735_english_hls_da947f6bbb65364_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Alexander-Zverev-vs-Benjamin-Bonzi_FC-WEB.jpg" group-title="Tennis", Court Philippe Chatrier | Roland Garros 2026 (ENGLISH)
-https://dai.google.com/linear/hls/event/alqtTrVWQeuxHd8fbw-Rmw/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131207_5427_VIL_ATL_FC-Web.png" group-title="Football", Villarreal Cf Vs Atletico De Madrid | LALIGA 2025-26 (ENGLISH) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/131207_english_dash_14242_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778777596615/142702_CASACARDS_APP.png" group-title="Football", Real Valladolid Vs Deportivo La Coruna | LALIGA Hypermotion 2025-26 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142702_english_hls_02388e4dcb94489_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 4   Main Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142130_english_hls_d2299e4d7e646_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 4   Featured Holes | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142132_english_hls_ad865c0d3020364_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 4   Featured Groups | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142133_english_hls_471b6b2a6324053_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png" group-title="Motorsports", Adac Gt Race 2   Zandvoort | DTM 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142535_english_hls_017965aaad2371_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018285/1779601648000453_RG26_Bonzi_vs_Zverev_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Benjamin Bonzi vs Alexander Zverev - Round 1 - 24 May 2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 4   Marquee Group | The CJ Cup Byron Nelson 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142131_english_hls_eb214487a576805_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 4   World Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142129_english_hls_288d6edf7a20445_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779186565976.jpg" group-title="Formula 1", Race | F1 LENOVO GRAND PRIX DU CANADA 2026 (ENGLISH) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/139446_english_dash_90959_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779186565976.jpg" group-title="Formula 1", Race | F1 LENOVO GRAND PRIX DU CANADA 2026 (HINDI) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/139446_hindi_dash_84736_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779186565976.jpg" group-title="Formula 1", Race | F1 LENOVO GRAND PRIX DU CANADA 2026 (TAMIL) [DRM]
+https://bd-mc-flive.fancode.com/mumbai/139446_tamil_dash_84781_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018286/1779591420000941_RG26_Perricard_vs_Djokovic_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Mpetshi Perricard vs Novak Djokovic - Round 1 - 24 May 2026
 https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090531101" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018237/1779537026869575_VitalityBlast26_Mens_Middlesex_vs_Surrey_23may_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Middlesex vs Surrey - 24 May 2026
-https://dai.google.com/ssai/event/1jne4j1lSJeB2tX-a-2TEA/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018287/1779601640000593_RG26_Baptiste_vs_Krejcikova_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Hailey Baptiste vs Barbora Krejcikova - Women's Singles - 24 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018283/1779591424000293_RG26_Efremova_vs_Cirstea_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Ksenia Efremova vs Sorana Cirstea - Round 1 - 24 May 2026
 https://dai.google.com/ssai/event/289XpT05TqS1xkA1I_kwvg/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779611719316580_RG26_Round1_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Alejandro Davidovich Fokina vs Damir Dzumhur - Men's Singles - 24 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779611719316580_RG26_Round1_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Hugo Dellien vs Valentin Royer - Men's Singles - 24 May 2026
 https://dai.google.com/ssai/event/ZFnJ3ngdQD-2g-Y8iVXtaA/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779610286818580_RG26_Round1_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Titouan Droguet vs Jakub Mensik - Men's Singles - 24 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779610286818580_RG26_Round1_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Lorenzo Sonego vs Pierre-Hugues Herbert - Men's Singles - 24 May 2026
 https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090530616" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774893987139_DP_World_Soudal_Open_Day4_landscape_thumb.jpg" group-title="Golf", DP World Tour | Soudal Open - Day 4 - 24 May 2026
-https://dai.google.com/ssai/event/urJiNdAfTz-oUiy1vWzIhw/master.m3u8
