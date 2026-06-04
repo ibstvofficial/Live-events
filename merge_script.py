@@ -17,7 +17,7 @@ def merge_playlists():
 https://bdixiptvbd.com/live/Telegram.mp4
 #EXTINF:-1,IBS TV Download: bdixiptvbd.com
 https://bdixiptvbd.com/live/Telegram.mp4
-#EXTINF:-1,Telegram Channel: https://t.me/bdixiptvbd
+#EXTINF:-1,Telegram Channel: https://t.me/ibstvbd
 https://bdixiptvbd.com/live/Telegram.mp4
 #EXTINF:-1,WhatsApp: 01610598422
 https://bdixiptvbd.com/live/Telegram.mp4
