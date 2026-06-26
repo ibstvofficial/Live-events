@@ -7,5 +7,15 @@ https://bdixiptvbd.com/live/Telegram.mp4
 https://bdixiptvbd.com/live/Telegram.mp4
 #EXTINF:-1,WhatsApp: 01610598422
 https://bdixiptvbd.com/live/Telegram.mp4
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781869172003/143522_CASACARDS_SPORTY_APP.png" group-title="Cricket", Rml Sports Vs Kcc | KPL Indo Nepal T20 2026 (ENGLISH)
+#EXTINF:-1 tvg-id="tapmad-14669" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17824194411020x576.jpg" group-title="Racing", GT4 European Series - Qualifying 1 & 2 Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14616" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17822113031020x576.jpg" group-title="Multisports", Women's Semi-Final A Session, Budapest, Hungary Live | UIPM 2026
+https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143545_6143_UZB_INA_FC-Web.png" group-title="Cricket", Indonesia Vs Uzbekistan | Asia Pacific Cricket Champions Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/indonesia_vs_uzbekistan_143549_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg" group-title="Cricket", Rml Sports Vs Kcc | KPL Indo Nepal T20 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rml_sports_vs_kcc_143522_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png" group-title="MotoGP", Day 1 | GRAND PRIX OF NETHERLANDS 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_139954_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg" group-title="Motorsports", Practice Session | F2 AUSTRIA 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_139630_english.m3u8
