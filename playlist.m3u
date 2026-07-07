@@ -17,7 +17,5 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14890" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833353841020x576.jpg" group-title="E Sports", Dota 2 - Day 1 - Feed 3 | Esports World Cup 2026 (EWC)
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-352fi78/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14827" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833317001020x576.jpg" group-title="E Sports", Valorant Day 6 | Esports World Cup 2026 (EWC)
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket", Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142979_english.m3u8
